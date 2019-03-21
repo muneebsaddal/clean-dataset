@@ -1,7 +1,7 @@
 # clean-dataset
-  read tsv file
-  remove tags
-  remove non letters
-  convert to lowercase and split into words
-  remove stopwords
-  join back to a string
+  1. read tsv file
+  2. remove tags.
+  3. remove non letters.
+  4. convert to lowercase and split into words
+  5. remove stopwords
+  6. join back to a string
